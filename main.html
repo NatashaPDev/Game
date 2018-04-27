@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+</head>
+<body>
+<h1>Hello Server</h1>
+<script type='text/javascript'>
+setInterval("location.reload()", 10000);
+</script>
+
+<form action="" method="POST">
+    Happiness: <input type="number" name="happiness"/>
+    <input type="hidden" name="id" value="${id}"/>
+    <input type="submit" value="Ok">
+</form>
+
+<p>id: ${id}</p>
+<p>time: ${time}</p>
+<p>score: ${score}</p>
+
+</body>
+</html>

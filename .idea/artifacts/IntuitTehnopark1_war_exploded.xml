@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IntuitTehnopark1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntuitTehnopark1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IntuitTehnopark1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IntuitTehnopark1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.27-incubating" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.4.8.v20171121" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.4.8.v20171121" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.1.0.M0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.4.8.v20171121" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.1.0.M0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.4.8.v20171121" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.1.0.M0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.1.0.M0" />
+          <element id="library" level="project" name="Maven: org.sonatype.sisu:sisu-guice:noaop:2.1.7" />
+          <element id="library" level="project" name="Maven: org.sonatype.sisu:sisu-inject-bean:1.4.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.3.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
